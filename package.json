@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyd3d/ghcr-demo.git"
+  },
   "publishConfig": {
-    "@kennyd3d:registry":"https://ghcr.io/"
+    "@kennyd3d:registry":"https://npm.pkg.github.com"
   },
   "author": "",
   "license": "ISC"
