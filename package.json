@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "@kennyd3d:registry": "https://npm.pkg.github.com"
+    "@kennyd3d:registry":"https://ghcr.io/"
   },
   "author": "",
   "license": "ISC"
